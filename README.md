@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @majkella
 - 👀 I’m interested in aerodynamics and changing my career
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on entry level projects that will help the community and myself to grow as developer
+- 💞️ I’m looking to collaborate on entry level projects that will help the community, and as a side effect help me grow as developer
 - 📫 How to reach me ...
 
 <!---
